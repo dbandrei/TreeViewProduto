@@ -25,7 +25,7 @@ public class ArvoreProduto extends Application {
     
     List<Produto> produtos = Arrays.<Produto> asList(
             //Perfumaria
-            new Produto("Maculino", "Perfumaria"),
+            new Produto("Masculino", "Perfumaria"),
             new Produto("Infantil", "Perfumaria"),
             new Produto("Feminina", "Perfumaria"),
             
